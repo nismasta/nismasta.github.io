@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nismasta.github.io/sitemap
+Sitemap: https://nismasta.github.io/app/sitemap
+Sitemap: https://nismasta.github.io/assets/sitemap
+Sitemap: https://nismasta.github.io/css/sitemap
+Sitemap: https://nismasta.github.io/includes/sitemap
+Sitemap: https://nismasta.github.io/item/sitemap
+Sitemap: https://nismasta.github.io/src/sitemap
